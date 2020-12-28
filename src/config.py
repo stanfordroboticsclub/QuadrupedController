@@ -5,7 +5,7 @@ from dataclasses import dataclass
 
 
 @dataclass
-class Configuration:
+class Config:
     ps4_color: dict
     ps4_deactivated_color: dict
 
